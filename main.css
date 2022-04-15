@@ -1,3 +1,28 @@
 body{
   background-color: bisque;
+  text-align: center;
 }
+ul {
+    width:100%;
+    margin-left: 0;
+    margin-bottom: 0
+} 
+
+li { 
+     list-style-type: none;
+    
+    margin-right: 20px;
+}
+/*.cardLine {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+}
+*/
