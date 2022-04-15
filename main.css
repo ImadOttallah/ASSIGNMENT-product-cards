@@ -13,16 +13,27 @@ li {
     
     margin-right: 20px;
 }
-/*.cardLine {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.card-title {
+  border: solid 1px blue;
+  
 }
 
-.card-group {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 600px;
+.card-text {
+  text-align: justify;
 }
-*/
+.bold {
+  font-weight: bold;
+  text-align: justify;
+}
+.avail {
+  background-color: gray;
+  color: yellow;
+  text-align: justify;
+}
+div {
+  padding: 2px;
+}
+
+footer {
+  text-align: justify;
+}
