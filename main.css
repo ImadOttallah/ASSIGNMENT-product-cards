@@ -41,3 +41,11 @@ footer {
 .font-one {
   font-family: "Merriweather" ;
 }
+.parent{
+  position: relative;
+}
+.over-img{
+  position: absolute;
+  top:30%;
+  left: 10%;
+}
