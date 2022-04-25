@@ -2,6 +2,14 @@ body{
   background-color: bisque;
   text-align: center;
 }
+
+@media (max-width: 480px) {
+  .product-filter {
+    flex-direction: column;
+  }
+}
+
+
 ul {
     width:100%;
     margin-left: 0;
